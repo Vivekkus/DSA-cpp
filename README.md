@@ -1,2 +1,2 @@
 # DSA-cpp
-DSA practice in c
+DSA practice in c++ from leetcode.
